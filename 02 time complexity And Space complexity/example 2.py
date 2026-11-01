@@ -1,4 +1,4 @@
-age = 60
+age = 40
 if age >= 80:
     print("super senior citizen")
 elif age >= 60:
